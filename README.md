@@ -28,6 +28,7 @@ word-character-counter/
 │   ...
 ```
 - `index.html`: Contains the HTML structure of the web page.
-- `fileManager.js`: Javascript file that containts the file manager reader for web page.
+- `fileInputTest.txt`: Text file that contains the input text to count words and characters within.
+- `fileManager.js`: Javascript file that contains the file manager reader for web page.
 - `wordAndCharCounter.js`: JavaScript file that contains the application logic.
 - `README.md`: This file that provides information about the project.
